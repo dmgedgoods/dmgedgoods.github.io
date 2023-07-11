@@ -1,4 +1,3 @@
-baseURL = 'http://busted.link/'
+baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'a busted link'
-
+title = 'My New Hugo Site'
