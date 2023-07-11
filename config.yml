@@ -125,7 +125,7 @@ params:
     profileMode:
         enabled: true
         title: PaperMod
-        imageUrl: "#"
+        imageUrl: "/resources/images/monke.png"
         imageTitle: my image
         # imageWidth: 120
         # imageHeight: 120
