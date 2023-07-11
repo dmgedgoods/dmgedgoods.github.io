@@ -104,8 +104,8 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-    author: Theme PaperMod
+    description: "welcome to my space"
+    author: mack
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto
@@ -120,11 +120,11 @@ params:
     ShowRssButtonInSectionTermList: true
     ShowToc: true
     # comments: false
-    images: ["papermod-cover.png"]
+    images: ["monke.png"]
 
     profileMode:
         enabled: true
-        title: PaperMod
+        title: this is my space
         imageUrl: "/resources/images/monke.png"
         imageTitle: my image
         # imageWidth: 120
@@ -136,7 +136,7 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "PaperMod"
+        Title: "busted.link"
         Content: >
             Welcome to demo of hugo's theme PaperMod.
 
