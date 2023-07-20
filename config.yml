@@ -79,22 +79,22 @@ languages:
                 - name: NullLink
                   url: "#"
 
-    fa:
-        languagedirection: rtl
-        weight: 3
-        title: PaperMod RTL
-        homeInfoParams:
-            Title: "Hi there \U0001F44B"
-            Content: Welcome to RTL layout
-        taxonomies:
-          category: FAcategories
-          tag: FAtags
-          series: FAseries
-        menu:
-            main:
-                - name: FATags
-                  url: fatags
-                  weight: 10
+#    fa:
+#        languagedirection: rtl
+#        weight: 3
+#        title: PaperMod RTL
+#        homeInfoParams:
+#            Title: "Hi there \U0001F44B"
+#            Content: Welcome to RTL layout
+#        taxonomies:
+#          category: FAcategories
+#          tag: FAtags
+#          series: FAseries
+#        menu:
+#            main:
+#                - name: FATags
+#                  url: fatags
+#                  weight: 10
 
 outputs:
     home:

@@ -125,7 +125,7 @@ params:
 
 ### Profile Mode
 
-![profile](https://raw.githubusercontent.com/adityatelange/hugo-PaperMod/exampleSite/content/posts/papermod/papermod-features/images/profile.jpg)
+![[Files/7d8ce4e677780c85f59aafe3df4781cb_MD5.jpg]]
 
 Shows Index/Home page as Full Page with Social Links and Image
 
