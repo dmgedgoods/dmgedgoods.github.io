@@ -148,9 +148,9 @@ params:
 
     socialIcons:
         - name: github
-          url: "https://github.com/adityatelange/hugo-PaperMod"
+          url: "https://github.com/mackrooter"
         - name: KoFi
-          url: "https://ko-fi.com/adityatelange"
+          url: "https://ko-fi.com/mackrooter"
         - name: Rss
           url: "index.xml"
 
