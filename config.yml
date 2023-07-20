@@ -120,12 +120,12 @@ params:
     ShowRssButtonInSectionTermList: true
     ShowToc: true
     # comments: false
-    images: ["/resources/images/monke.png"]
+    images: ["/resources/_gen/images/monke.png"]
 
     profileMode:
         enabled: true
         title: this is my space
-        imageUrl: "/resources/images/monke.png"
+        imageUrl: "/resources/_gen/images/monke.png"
         imageTitle: my image
         # imageWidth: 120
         # imageHeight: 120
