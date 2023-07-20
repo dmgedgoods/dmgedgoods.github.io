@@ -42,7 +42,7 @@ languages:
 
 #    fr:
 #        languageName: ":fr:"
-#        languageAltTitle: French
+#        languageAltTitle: French        optional
 #        weight: 2
 #        title: PaperModL2
 #        taxonomies:
