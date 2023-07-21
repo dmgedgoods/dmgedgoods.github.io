@@ -1,0 +1,29 @@
+baseURL = 'https://busted.link/'
+languageCode = 'en-us'
+title = 'busted.link'
+theme = 'paper'
+
+[params]
+  # color style
+  color = 'linen'                           # linen, wheat, gray, light
+
+  # header social icons
+  twitter = 'mackrooter'               # twitter.com/mackrooter
+  github = 'mackrooter'                 # github.com/mackrooter
+  instagram = 'mackrooter'           # instagram.com/mackrooter
+#  linkedin = 'YOUR_LINKEDIN_ID'             # linkedin.com/in/YOUR_LINKEDIN_ID
+  mastodon = 'mackrooter'           # e.g. 'https://infosec.exchange/@mackrooter'
+  rss = true                                # show rss icon
+
+  # home page profile
+  avatar = 'mackrooter@proton.me'                 # gravatar email or image url
+  name = 'mack'
+  bio = 'I break stuff and put it back together in creative ways. Physical and cyber security enjoyer.'
+
+
+  # misc
+  disableHLJS = true                        # disable highlight.js
+  monoDarkIcon = true                       # show monochrome dark mode icon
+  gravatarCdn = 'GRAVATAR_CDN_LINK'         # e.g. 'https://cdn.v2ex.com/gravatar/'
+  graphCommentId = "YOUR_GRAPH_COMMENT_ID"  # use graph comment (disqus alternative)
+  math = true                               # enable KaTex math typesetting globally
