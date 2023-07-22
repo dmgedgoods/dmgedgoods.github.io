@@ -6,4 +6,5 @@ aliases = ["about-us", "about", "contact"]
 author = "mack"
 +++
 
-- [Head Monke](info@apt-i.com)
+- [Head Monke](monke.group)
+- [Work Related](https:www.apt-i.com)
