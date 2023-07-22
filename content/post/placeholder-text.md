@@ -1,5 +1,5 @@
 +++
-author = "lee.so"
+author = "mackrooter"
 title = "Placeholder Text"
 date = "2019-03-09"
 description = "Lorem Ipsum Dolor Si Amet"
