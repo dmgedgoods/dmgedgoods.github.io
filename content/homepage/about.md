@@ -4,4 +4,4 @@ button: 'about me'
 weight: 2
 ---
 
-My name is mack
+You can call me Mack. 
