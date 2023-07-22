@@ -1,29 +1,79 @@
-baseURL = 'https://busted.link/'
-languageCode = 'en-us'
-title = 'busted.link'
-theme = 'paper'
+baseURL = "https://busted.link/"
+# title = "my workspace"
+author = "mack"
+copyright = "Copyright © 2023, mackrooter; all rights reserved."
+paginate = 3
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+# prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
+# See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
+ignoreErrors = ["error-remote-getjson"]
+
+# ------------------------------
+theme = "paper"
+title = "my workspace"
 
 [params]
-  # color style
-  color = 'linen'                           # linen, wheat, gray, light
+  color = 'linen'
 
-  # header social icons
-  twitter = 'mackrooter'               # twitter.com/mackrooter
-  github = 'mackrooter'                 # github.com/mackrooter
-  instagram = 'mackrooter'           # instagram.com/mackrooter
-#  linkedin = 'YOUR_LINKEDIN_ID'             # linkedin.com/in/YOUR_LINKEDIN_ID
-  mastodon = 'mackrooter'           # e.g. 'https://infosec.exchange/@mackrooter'
-  rss = true                                # show rss icon
+  twitter = 'mackrooter'
+  github = 'mackrooter'
+  instagram = 'mackrooter'
 
-  # home page profile
-  avatar = 'mackrooter@proton.me'                 # gravatar email or image url
+  avatar = 'mackrooter@proton.me'
   name = 'mack'
-  bio = 'I break stuff and put it back together in creative ways. Physical and cyber security enjoyer.'
+  bio = 'do work'
+  monoDarkIcon = true
+# ------------------------------
 
+# needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
-  # misc
-  disableHLJS = true                        # disable highlight.js
-  monoDarkIcon = true                       # show monochrome dark mode icon
-  gravatarCdn = 'GRAVATAR_CDN_LINK'         # e.g. 'https://cdn.v2ex.com/gravatar/'
-  graphCommentId = "YOUR_GRAPH_COMMENT_ID"  # use graph comment (disqus alternative)
-  math = true                               # enable KaTex math typesetting globally
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 10
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
