@@ -18,6 +18,25 @@
     </item>
     
     <item>
+      <title>About</title>
+      <link>https://busted.link/about/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://busted.link/about/</guid>
+      <description>A comprehensive list of what I do:
+Shitpost </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://busted.link/contact/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://busted.link/contact/</guid>
+      <description> Work Related Monke Related </description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://busted.link/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
@@ -36,7 +55,7 @@
     </item>
     
     <item>
-      <title>Rich Content</title>
+      <title>Rich Contents</title>
       <link>https://busted.link/post/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -61,26 +80,6 @@
       
       <guid>https://busted.link/post/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://busted.link/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://busted.link/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
-https://github.com/yuin/goldmark https://github.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://busted.link/contact/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://busted.link/contact/</guid>
-      <description> github.com/nanxiaobei lee.so </description>
     </item>
     
   </channel>
