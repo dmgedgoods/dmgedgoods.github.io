@@ -17,11 +17,11 @@ title = "my workspace"
 [params]
   color = 'linen'
 
-  twitter = 'mackrooter'
-  github = 'mackrooter'
-  instagram = 'mackrooter'
+  twitter = ''
+  github = ''
+  instagram = ''
 
-  avatar = 'mackrooter@proton.me'
+  avatar = ''
   name = 'mack'
   bio = 'do work'
   monoDarkIcon = true
