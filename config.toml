@@ -11,7 +11,7 @@ enableInlineShortcodes = true
 ignoreErrors = ["error-remote-getjson"]
 
 # ------------------------------
-theme = "paper"
+theme = "anubis"
 title = "my workspace"
 
 [params]
