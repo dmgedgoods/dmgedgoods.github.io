@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'welcome to my workspace'
+theme = 'hello-friend-ng'
