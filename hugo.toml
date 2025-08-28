@@ -1,4 +1,14 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'welcome to my webpage!'
+title = 'shawn mcdaniel'
 theme = 'hyde'
+
+[Menus]
+  main = [
+      {Name = "Github", URL = "https://github.com/dmgedgoods/"},
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/smackdaniel/"}
+  ]
+
+[params]
+  description = "welcome to my workspace"
+  layoutReverse = true
