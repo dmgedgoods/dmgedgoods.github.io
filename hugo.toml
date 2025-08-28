@@ -1,4 +1,4 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'welcome to my webpage!'
-theme = 'PaperMod'
+theme = 'hyde'
