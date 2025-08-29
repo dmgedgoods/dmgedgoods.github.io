@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Shawn McDaniel</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Shawn McDaniel</description>
+    <title>Posts on Shawn McDaniel</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Shawn McDaniel</description>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 29 Aug 2025 10:35:18 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An Idea</title>
       <link>http://localhost:1313/posts/postone/</link>
       <pubDate>Fri, 29 Aug 2025 10:35:18 -0700</pubDate>
       <guid>http://localhost:1313/posts/postone/</guid>
       <description>&lt;p&gt;I had a thought while working project management years ago for a construction company in the Bay Area: contractors are
-not the most technologically savvy people around.&lt;/p&gt;
+great at their jobs. However they are not the most technologically savvy people around.&lt;/p&gt;
 &lt;p&gt;There was a huge problem at this company. The entire operational structure of the organization was built on spreadsheets.
 Hundreds, if not thousands of spreadsheets, everywhere. Zero tracking. Zero version control. Accounting, job
 tracking, vendor management, customer management, etc&amp;hellip;all of it was a mess.&lt;/p&gt;</description>

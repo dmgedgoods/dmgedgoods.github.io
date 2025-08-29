@@ -1,15 +1,66 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'shawn mcdaniel'
+title = 'Shawn McDaniel'
 theme = 'PaperMod'
+pagination.pagerSize = 5 # Optional: Set number of posts per page
 
-[Menus]
-  main = [
-      {Name = "Github", URL = "https://github.com/dmgedgoods/"},
-      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/smackdaniel/"}
-  ]
+# Required for the search function to work
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
 
 [params]
-  description = "welcome to my workspace"
+  description = "Welcome to my workspace"
+  author = "Shawn McDaniel" # Add your name for metadata
   layoutReverse = true
-  custom_css = ["css/custom.css"]
+  # defaultTheme = "auto" # Set default theme (auto, light, or dark)
+  # disableThemeToggle = false # Allow users to switch themes
+
+  # Show metadata on blog post list pages
+  ShowReadingTime = true
+  ShowWordCount = true
+
+  # Add a button to copy code blocks
+  showCodeCopyButtons = true
+
+  # Profile mode for the home page
+  [params.profileMode]
+    enabled = true
+    title = "Shawn McDaniel"
+    subtitle = "Builder | Security Professional | Technology Enjoyer"
+    imageUrl = "/avatar.png" # Path relative to assets folder
+    imageWidth = 120
+    imageHeight = 120
+
+    [[params.profileMode.buttons]]
+      name = "Blog"
+      url = "/posts" # or "/blog"
+
+    [[params.profileMode.buttons]]
+      name = "Projects"
+      url = "/projects"
+
+  # Social Icons
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/dmgedgoods/"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/smackdaniel/"
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:shawn@apt-i.com"
+
+# Main menu, which appears in the header
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Blog"
+    url = "/posts/" # or wherever your blog posts are
+    weight = 20
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 30
