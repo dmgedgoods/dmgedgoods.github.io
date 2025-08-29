@@ -12,3 +12,4 @@ theme = 'hyde'
 [params]
   description = "welcome to my workspace"
   layoutReverse = true
+  custom_css = ["css/custom.css"]
