@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'shawn mcdaniel'
-theme = 'hyde'
+theme = 'PaperMod'
 
 [Menus]
   main = [
