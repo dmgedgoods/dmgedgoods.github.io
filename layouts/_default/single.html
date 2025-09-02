@@ -42,9 +42,7 @@
   </div>
   {{- end }}
 
-  {{- if (and site.Params.newsletter.enabled (not (.Param "hideNewsletter"))) }}
-  {{- partial "newsletter.html" . }}
-  {{- end }}
+
 
   <footer class="post-footer">
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
