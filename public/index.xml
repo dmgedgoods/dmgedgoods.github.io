@@ -9,15 +9,25 @@
     <lastBuildDate>Fri, 29 Aug 2025 10:35:18 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>An Idea</title>
+      <title>From Wall Street to Main Street</title>
       <link>http://localhost:1313/posts/postone/</link>
       <pubDate>Fri, 29 Aug 2025 10:35:18 -0700</pubDate>
       <guid>http://localhost:1313/posts/postone/</guid>
-      <description>&lt;p&gt;I had a thought while working project management years ago for a construction company in the Bay Area: contractors are
-not the most technologically savvy people around.&lt;/p&gt;
-&lt;p&gt;There was a huge problem at this company. The entire operational structure of the organization was built on spreadsheets.
-Hundreds, if not thousands of spreadsheets, everywhere. Zero tracking. Zero version control. Accounting, job
-tracking, vendor management, customer management, etc&amp;hellip;all of it was a mess.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I used to build houses. I was pretty good at it, believe it or not. My formative
+years in the military were squeezed in between years of building, managing and
+strugling in the construction industry. It&amp;rsquo;s a hard life, but the pay can be
+great and there is something to be said about building a physical thing that
+will be around for a long time. Craftsmanship is a unique trait, and the trades
+are where some of the most amazing things get built. Perhaps it may be common
+knowledge that the trades are notoriously averese to the tides of technology,
+perhaps not. I would argue that for being such a large sector of small
+businesses, there is a problem with the adoption of technology. According to the
+Small Business Administration, greater that 10% of all small to medium sized
+businesses are in the construction sector. Even more astounding is that about
+99.9% of all construction companies are considered small to medium sized
+businesses. So, being conservative with our math, if about 45% of SMBs make up
+the GDP of the United States, we can assume about 4-5% of GDP comes from this
+uniquely small construction sector. This is not trivial.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

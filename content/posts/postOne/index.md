@@ -27,7 +27,7 @@ necessarily wrong, but it leaves a critical factor out of the equation. There is
 a prevailing mindset that small businesses on Main Street are simply too small
 to be a target. If 45% of the economy is too small to be a target, I have a
 bridge in San Francisco for sale. The sad truth is that these small businesses
-are prime targets for cyberattacks. Maybe not from nation state actors, but
+_are_ prime targets for cyberattacks. Maybe not from nation state actors, but
 cybercriminals are actively taking advantage of this market segment. Even worse,
 one of the fastest growing targets in this target rich environment is the
 construction sector.
@@ -40,3 +40,31 @@ tranformation doen in a secure and functional way. Their bottom line is my
 bottom line. For years the risk management has been focused on the job site, and
 to an extent it still should be. However the single biggest threat we see today
 isn't somebody falling off the scaffolding; it's a phishing email.
+
+In an already risky industry, there are new hurdles that must be overcome. We
+have a huge rush towards digitization while simultaneously suffering from
+cultural lag: the risk profile is exploding. The immense pressure companies feel
+to get on board with new technologies is creating an inherently insecure
+situation. There is a "move fast and break stuff" vibe going on, and not on
+purpose. Insecure deployments, IoT, new BIM technologies yet to be vetted by
+industry, all of which are creating a digital attack surface ripe for
+exploitation. A digital attack surface where one simply did not exist a decade
+ago. This is a scary new landscape for organizations that still can't grasp the
+sensitivity of much of their data. There are tons of PII, confidential data, IP
+and multi-million dollar financial transactions. Couple this with the immense
+operational tempo of the industry and you have a perfect storm ripe for
+criminals to take advantage of. If you have to shutdown operations because of
+ransomware, this is the industry that is most likely to pay. Time is money.
+
+There is a rapid rise in cybercrime in the construction industry. This is a fact
+that can no longer be avoided. 60% of small businesses that suffer a cyberattack
+with fold...disappear, gone forever. In the construction sector alone, data
+breaches have increased 800% between 2019 and 2020 alone. Incident response
+cases have doubled. There has been an outsized increase in phishing. Business
+email compromise is easy money for these criminals. Construction is tied with
+manufacturing as the top target for ransomware. The data is screaming at us to
+do something. Threat actors have identified the construction industry as a prime
+target for exploitation and are not waiting for us to catch up. This problem is
+accelerating, don't wait to become a statistic. For an industry that so easily
+manages complex tasks, we should be able to apply that same discipline to this
+staggering problem.
