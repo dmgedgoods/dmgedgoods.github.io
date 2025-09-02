@@ -1,8 +1,7 @@
 +++
 date = '2025-08-29T10:35:18-07:00'
 draft = false
-title = 'From Wall Street to Main Street: Cybercrime and the Construction
-Industry'
+title = 'From Wall Street to Main Street'
 +++
 
 I used to build houses. I was pretty good at it, believe it or not. My formative
