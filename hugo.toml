@@ -22,6 +22,17 @@ pagination.pagerSize = 5 # Optional: Set number of posts per page
   # Add a button to copy code blocks
   showCodeCopyButtons = true
 
+  # Newsletter configuration
+  [params.newsletter]
+    enabled = true
+    title = "Hard Hats and Hard Drives"
+    description = "Get insights on cybersecurity in construction, technology trends, and industry analysis delivered to your inbox."
+    buttonText = "Subscribe"
+    # action = "https://your-newsletter-service.com/subscribe"
+    # emailField = "email"
+    # [params.newsletter.hiddenFields]
+    #   list_id = "your-list-id"
+
   # Profile mode for the home page
   [params.profileMode]
     enabled = true

@@ -6,11 +6,11 @@ title = 'From Wall Street to Main Street'
 
 I used to build houses. I was pretty good at it, believe it or not. My formative
 years in the military were squeezed in between years of building, managing and
-strugling in the construction industry. It's a hard life, but the pay can be
+struggling in the construction industry. It's a hard life, but the pay can be
 great and there is something to be said about building a physical thing that
 will be around for a long time. Craftsmanship is a unique trait, and the trades
 are where some of the most amazing things get built. Perhaps it may be common
-knowledge that the trades are notoriously averese to the tides of technology,
+knowledge that the trades are notoriously averse to the tides of technology,
 perhaps not. I would argue that for being such a large sector of small
 businesses, there is a problem with the adoption of technology. According to the
 Small Business Administration, greater that 10% of all small to medium sized
@@ -32,11 +32,11 @@ cybercriminals are actively taking advantage of this market segment. Even worse,
 one of the fastest growing targets in this target rich environment is the
 construction sector.
 
-The constrcution industry has long been defined by physical risk and hard
+The construction industry has long been defined by physical risk and hard
 assets. The rapid digitization of the sector has created a perfect storm
 enabling cybercriminals to capitalize like never before. This hits home for me.
 I work with sever organizations in the space, helping them get this digital
-tranformation doen in a secure and functional way. Their bottom line is my
+transformation done in a secure and functional way. Their bottom line is my
 bottom line. For years the risk management has been focused on the job site, and
 to an extent it still should be. However the single biggest threat we see today
 isn't somebody falling off the scaffolding; it's a phishing email.

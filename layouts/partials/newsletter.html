@@ -1,0 +1,112 @@
+{{- if site.Params.newsletter.enabled }}
+<div class="newsletter-signup">
+    <h3>{{ site.Params.newsletter.title | default "Subscribe to Newsletter" }}</h3>
+    <p>{{ site.Params.newsletter.description | default "Get the latest updates delivered to your inbox." }}</p>
+    
+    {{- if site.Params.newsletter.action }}
+    <form action="{{ site.Params.newsletter.action }}" method="post" class="newsletter-form">
+        <div class="newsletter-input-group">
+            <input 
+                type="email" 
+                name="{{ site.Params.newsletter.emailField | default "email" }}" 
+                placeholder="Enter your email" 
+                required
+                class="newsletter-email"
+            >
+            <button type="submit" class="newsletter-button">
+                {{ site.Params.newsletter.buttonText | default "Subscribe" }}
+            </button>
+        </div>
+        {{- with site.Params.newsletter.hiddenFields }}
+        {{- range $key, $value := . }}
+        <input type="hidden" name="{{ $key }}" value="{{ $value }}">
+        {{- end }}
+        {{- end }}
+    </form>
+    {{- else }}
+    <!-- Placeholder for newsletter service integration -->
+    <form class="newsletter-form" onsubmit="alert('Newsletter signup coming soon!'); return false;">
+        <div class="newsletter-input-group">
+            <input type="email" placeholder="Enter your email" required class="newsletter-email">
+            <button type="submit" class="newsletter-button">Subscribe</button>
+        </div>
+    </form>
+    {{- end }}
+</div>
+
+<style>
+.newsletter-signup {
+    margin: 2rem 0;
+    padding: 1.5rem;
+    background: var(--entry);
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+    text-align: center;
+}
+
+.newsletter-signup h3 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    color: var(--primary);
+}
+
+.newsletter-signup p {
+    margin-bottom: 1rem;
+    color: var(--secondary);
+    font-size: 0.9rem;
+}
+
+.newsletter-form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.newsletter-input-group {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.newsletter-email {
+    flex: 1;
+    min-width: 200px;
+    padding: 0.75rem;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    background: var(--theme);
+    color: var(--primary);
+    font-size: 0.9rem;
+}
+
+.newsletter-email:focus {
+    outline: none;
+    border-color: var(--tertiary);
+}
+
+.newsletter-button {
+    padding: 0.75rem 1.5rem;
+    background: var(--primary);
+    color: var(--theme);
+    border: none;
+    border-radius: var(--radius);
+    cursor: pointer;
+    font-size: 0.9rem;
+    font-weight: 500;
+    transition: opacity 0.2s;
+}
+
+.newsletter-button:hover {
+    opacity: 0.8;
+}
+
+@media (max-width: 480px) {
+    .newsletter-input-group {
+        flex-direction: column;
+    }
+    
+    .newsletter-email {
+        min-width: auto;
+    }
+}
+</style>
+{{- end }}

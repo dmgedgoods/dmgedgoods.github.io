@@ -1,0 +1,19 @@
+{
+    "name": "busted.link",
+    "short_name": "busted.link",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicon-32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#DC2626",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
