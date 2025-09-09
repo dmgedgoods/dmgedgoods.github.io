@@ -1,6 +1,6 @@
 +++
 title = "IAM Management for the Small Guys"
-date = "2025-09-09T10:00:00-07:00"
+date = "2025-02-22T09:00:00-07:00"
 draft = false
 tags = ["iam", "security", "small-business", "access-management"]
 +++
