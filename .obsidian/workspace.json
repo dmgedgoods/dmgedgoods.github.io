@@ -11,12 +11,14 @@
             "id": "2d220601e997f829",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "content/projects/bespoke-construction-management/Pasted image 20250909145449.png"
+                "file": "content/projects/bespoke-construction-management/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250909145449"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -167,18 +169,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "b868d24981f9103a",
+  "active": "2d220601e997f829",
   "lastOpenFiles": [
-    "Pasted image 20250909145713.png",
-    "content/projects/bespoke-construction-management/Pasted image 20250909145449.png",
-    "content/projects/bespoke-construction-management/Pasted image 20250909150020.png",
-    "content/projects/bespoke-construction-management/Pasted image 20250909145924.png",
-    "content/projects/bespoke-construction-management/Pasted image 20250909145837.png",
-    "content/projects/bespoke-construction-management/Pasted image 20250909145230.png",
+    "content/projects/bespoke-construction-management/pdfprintout.png",
+    "content/projects/bespoke-construction-management/schedule.png",
+    "content/projects/bespoke-construction-management/table.png",
     "content/projects/bespoke-construction-management/index.md",
-    "content/projects/offline-transcription-workflow/index.md",
-    "content/projects/projectTwo/index.md",
     "content/projects/projectOne/index.md",
+    "content/projects/bespoke-construction-management/landing.png",
+    "Pasted.md",
+    "content/projects/bespoke-construction-management/login.png",
+    "content/projects/projectOne/budget.png",
+    "content/projects/projectTwo/index.md",
+    "content/projects/projectOne/login.png",
+    "content/projects/projectOne/landingpage.png",
+    "content/projects/offline-transcription-workflow/index.md",
+    "Pasted image 20250909145713.png",
     "content/posts/iam-management-for-the-small-guys/index.md",
     "content/posts/securing-the-bim-pipeline/index.md",
     "content/posts/bec-and-typosquatting/index.md",
