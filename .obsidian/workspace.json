@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/bec-and-typosquatting/index.md",
+                "file": "content/posts/iam-management-for-the-small-guys/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -171,6 +171,8 @@
   },
   "active": "2d220601e997f829",
   "lastOpenFiles": [
+    "content/posts/securing-the-bim-pipeline/index.md",
+    "content/posts/bec-and-typosquatting/index.md",
     "content/posts/postOne/index.md",
     "content/projects/projectTwo/index.md~",
     "content/projects/projectTwo/index.md",
