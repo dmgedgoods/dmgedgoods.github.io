@@ -11,14 +11,12 @@
             "id": "2d220601e997f829",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "content/projects/bespoke-construction-management/index.md",
-                "mode": "source",
-                "source": false
+                "file": "content/projects/bespoke-construction-management/Pasted image 20250909145449.png"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250909145449"
             }
           }
         ]
@@ -169,16 +167,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "2d220601e997f829",
+  "active": "b868d24981f9103a",
   "lastOpenFiles": [
-    "content/projects/offline-transcription-workflow/index.md",
-    "content/projects/bespoke-construction-management/index.md",
-    "Pasted image 20250909150020.png",
-    "Pasted image 20250909145924.png",
-    "Pasted image 20250909145837.png",
     "Pasted image 20250909145713.png",
-    "Pasted image 20250909145449.png",
-    "Pasted image 20250909145230.png",
+    "content/projects/bespoke-construction-management/Pasted image 20250909145449.png",
+    "content/projects/bespoke-construction-management/Pasted image 20250909150020.png",
+    "content/projects/bespoke-construction-management/Pasted image 20250909145924.png",
+    "content/projects/bespoke-construction-management/Pasted image 20250909145837.png",
+    "content/projects/bespoke-construction-management/Pasted image 20250909145230.png",
+    "content/projects/bespoke-construction-management/index.md",
+    "content/projects/offline-transcription-workflow/index.md",
     "content/projects/projectTwo/index.md",
     "content/projects/projectOne/index.md",
     "content/posts/iam-management-for-the-small-guys/index.md",
