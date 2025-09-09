@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "c0994d409b92eaae",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,6 +182,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "2d220601e997f829",
-  "lastOpenFiles": []
+  "active": "c0994d409b92eaae",
+  "lastOpenFiles": [
+    "content/posts/postOne/index.md",
+    "content/projects/projectTwo/index.md~",
+    "content/projects/projectTwo/index.md",
+    "content/projects/projectTwo"
+  ]
 }

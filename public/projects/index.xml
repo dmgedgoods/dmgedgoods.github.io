@@ -2,11 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on Shawn McDaniel</title>
-    <link>http://localhost:1314/projects/</link>
+    <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on Shawn McDaniel</description>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1314/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Aug 2025 10:43:39 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Codebase to Construction Site: Building an AI to Navigate the Maze of Building Codes</title>
+      <link>http://localhost:1313/projects/projecttwo/</link>
+      <pubDate>Fri, 29 Aug 2025 10:43:39 -0700</pubDate>
+      <guid>http://localhost:1313/projects/projecttwo/</guid>
+      <description>&lt;p&gt;Every general contractor has the same problem. It&amp;rsquo;s not manpower or material
+costs. It&amp;rsquo;s the building department. Specifically building codes. A wall of text
+that seems impossible to fully wrap your head around, let alone decypher and get
+effective answer from. Sometimes a simple question can bog the entire job down;
+waiting for building officials to respond with pertinent, objective answers can
+take days, even weeks.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

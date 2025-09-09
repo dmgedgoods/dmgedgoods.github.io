@@ -4,5 +4,9 @@ draft = false
 title = 'From Codebase to Construction Site: Building an AI to Navigate the Maze of Building Codes'
 +++
 
-I'm not gonna lie, I hoped on LLMs and all this AI craze pretty quick. I try to
-solve more problems than my little hands can do on their own.
+Every general contractor has the same problem. It's not manpower or material
+costs. It's the building department. Specifically building codes. A wall of text
+that seems impossible to fully wrap your head around, let alone decypher and get
+effective answer from. Sometimes a simple question can bog the entire job down;
+waiting for building officials to respond with pertinent, objective answers can
+take days, even weeks.

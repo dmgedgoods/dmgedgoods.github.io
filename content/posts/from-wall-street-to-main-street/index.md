@@ -1,5 +1,5 @@
 +++
-date = '2025-08-29T10:35:18-07:00'
+date = '2025-07-27T10:35:18-07:00'
 draft = false
 title = 'From Wall Street to Main Street'
 +++
