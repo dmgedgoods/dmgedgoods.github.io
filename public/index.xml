@@ -6,20 +6,17 @@
     <description>Recent content on Shawn McDaniel</description>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Sep 2025 10:35:18 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 02 Sep 2025 10:00:00 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Domain Squatting, BEC, Fake Invoices...oh my</title>
-      <link>http://localhost:1313/posts/posttwo/</link>
-      <pubDate>Tue, 02 Sep 2025 10:35:18 -0700</pubDate>
-      <guid>http://localhost:1313/posts/posttwo/</guid>
-      <description>&lt;p&gt;About a year ago I had a friend call me with a minor concern. They worked for a
-reputable general contractor that worked with some very high-end clients.
-Incredibly wealthy is what that means. They were wondering how an email could
-appear to have come from one of the managers of the company requesting payment
-from a client. This piqued my interest. Honestly I had a hard time wrapping my
-head around the circumstances, as the timeline was not explained well. I will
-attempt to do a better job explaining it below:&lt;/p&gt;</description>
+      <title>Offline Transcription Workflow</title>
+      <link>http://localhost:1313/projects/offline-transcription-workflow/</link>
+      <pubDate>Tue, 02 Sep 2025 10:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/projects/offline-transcription-workflow/</guid>
+      <description>&lt;h3 id=&#34;project-brief-offline-hipaa-compliant-transcription&#34;&gt;Project Brief: Offline, HIPAA-Compliant Transcription&lt;/h3&gt;
+&lt;p&gt;If your research involves Protected Health Information (PHI), sending audio files to a cloud transcription service is just asking for a HIPAA violation. It’s a massive liability. All it takes is one breach at some third-party AI company and your university is facing seven-figure fines and a complete loss of trust. It&amp;rsquo;s a non-starter.&lt;/p&gt;
+&lt;p&gt;This project was born from that simple reality.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m developing a fully &lt;strong&gt;offline transcription solution&lt;/strong&gt; for a local university&amp;rsquo;s research department. The entire process—from audio input to the finished text document—happens on a single, air-gapped machine. The data &lt;strong&gt;never&lt;/strong&gt; touches the internet. It doesn&amp;rsquo;t get sent to a server in some unknown data center for processing; it stays local and secure. This isn&amp;rsquo;t just a feature; it&amp;rsquo;s the entire point. It provides researchers with the power of modern transcription technology without forcing them to gamble with patient privacy and compliance.&lt;/p&gt;</description>
     </item>
     <item>
       <title>From Codebase to Construction Site: Building an AI to Navigate the Maze of Building Codes</title>
@@ -35,9 +32,9 @@ take days, even weeks.&lt;/p&gt;</description>
     </item>
     <item>
       <title>From Wall Street to Main Street</title>
-      <link>http://localhost:1313/posts/postone/</link>
+      <link>http://localhost:1313/posts/from-wall-street-to-main-street/</link>
       <pubDate>Sun, 27 Jul 2025 10:35:18 -0700</pubDate>
-      <guid>http://localhost:1313/posts/postone/</guid>
+      <guid>http://localhost:1313/posts/from-wall-street-to-main-street/</guid>
       <description>&lt;p&gt;I used to build houses. I was pretty good at it, believe it or not. My formative
 years in the military were squeezed in between years of building, managing and
 struggling in the construction industry. It&amp;rsquo;s a hard life, but the pay can be
@@ -53,6 +50,46 @@ businesses are in the construction sector. Even more astounding is that about
 businesses. So, being conservative with our math, if about 45% of SMBs make up
 the GDP of the United States, we can assume about 4-5% of GDP comes from this
 uniquely small construction sector. This is not trivial.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bespoke Construction Management</title>
+      <link>http://localhost:1313/projects/bespoke-construction-management/</link>
+      <pubDate>Sun, 15 Jun 2025 10:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/projects/bespoke-construction-management/</guid>
+      <description>&lt;h3 id=&#34;project-brief-the-no-bs-construction-management-platform&#34;&gt;Project Brief: The No-BS Construction Management Platform&lt;/h3&gt;
+&lt;p&gt;Let&amp;rsquo;s be honest, most construction management software is a bloated, overpriced mess. You pay a fortune for a hundred features you&amp;rsquo;ll never use, and the whole thing runs slower than molasses in January. It’s built by committees in corner offices who haven&amp;rsquo;t stepped on a job site in years.&lt;/p&gt;
+&lt;p&gt;I got fed up with it. So, I built my own.&lt;/p&gt;
+&lt;p&gt;This is a ground-up construction management platform with all the core functionality of something like Buildertrend, but without the fluff. Using &lt;strong&gt;Python&lt;/strong&gt;, &lt;strong&gt;SQLite&lt;/strong&gt;, and &lt;strong&gt;HTMX&lt;/strong&gt;, it&amp;rsquo;s ridiculously fast and responsive. There are no clunky JavaScript frameworks, just a tool that does what you need it to do—scheduling, daily logs, client communication, financials—and gets out of your way. The goal here isn&amp;rsquo;t to reinvent the wheel; it&amp;rsquo;s to build a better, leaner wheel for the GCs who are tired of paying for a fleet of 18-wheelers when all they need is a reliable work truck. I will update with a better breakdown as time permits. Here are some screenshots for now.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Securing the BIM Pipeline</title>
+      <link>http://localhost:1313/posts/securing-the-bim-pipeline/</link>
+      <pubDate>Thu, 22 May 2025 12:50:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/securing-the-bim-pipeline/</guid>
+      <description>&lt;h3 id=&#34;your-bim-models-are-a-ticking-time-bomb&#34;&gt;Your BIM Models Are a Ticking Time Bomb&lt;/h3&gt;
+&lt;p&gt;I was talking with a small engineering firm a while back about a project that went sideways. It wasn&amp;rsquo;t a big, dramatic failure. It was subtle. A set of plans sent to a fabricator had a few critical dimensions that were off by just enough to cause a massive headache on-site. The change wasn&amp;rsquo;t caught in the shop drawings, and the result was thousands of dollars in rework and a client who was, to put it mildly, not thrilled.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>IAM Management for the Small Guys</title>
+      <link>http://localhost:1313/posts/iam-management-for-the-small-guys/</link>
+      <pubDate>Sat, 22 Feb 2025 09:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/iam-management-for-the-small-guys/</guid>
+      <description>&lt;h3 id=&#34;who-has-the-keys-to-your-kingdom&#34;&gt;Who Has the Keys to Your Kingdom?&lt;/h3&gt;
+&lt;p&gt;An employee quits on a Friday. On Monday, you find out your main client list has been deleted from the company Dropbox. Who did it? You have no idea, because five different people all use the same &lt;code&gt;admin@&lt;/code&gt; login.&lt;/p&gt;
+&lt;p&gt;This isn&amp;rsquo;t a hypothetical. For small businesses, this kind of chaos is frighteningly common. We often operate on trust, giving everyone the keys to everything because it’s &amp;ldquo;easier.&amp;rdquo; This isn&amp;rsquo;t just lazy; it&amp;rsquo;s a massive, self-inflicted wound waiting to happen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Domain Squatting, BEC, Fake Invoices...oh my</title>
+      <link>http://localhost:1313/posts/bec-and-typosquatting/</link>
+      <pubDate>Sun, 12 May 2024 09:12:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/bec-and-typosquatting/</guid>
+      <description>&lt;p&gt;About a year ago I had a friend call me with a minor concern. They worked for a
+reputable general contractor that worked with some very high-end clients.
+Incredibly wealthy is what that means. They were wondering how an email could
+appear to have come from one of the managers of the company requesting payment
+from a client. This piqued my interest. Honestly I had a hard time wrapping my
+head around the circumstances, as the timeline was not explained well. I will
+attempt to do a better job explaining it below:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

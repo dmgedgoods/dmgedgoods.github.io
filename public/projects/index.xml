@@ -6,8 +6,18 @@
     <description>Recent content in Projects on Shawn McDaniel</description>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Aug 2025 10:43:39 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 02 Sep 2025 10:00:00 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Offline Transcription Workflow</title>
+      <link>http://localhost:1313/projects/offline-transcription-workflow/</link>
+      <pubDate>Tue, 02 Sep 2025 10:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/projects/offline-transcription-workflow/</guid>
+      <description>&lt;h3 id=&#34;project-brief-offline-hipaa-compliant-transcription&#34;&gt;Project Brief: Offline, HIPAA-Compliant Transcription&lt;/h3&gt;
+&lt;p&gt;If your research involves Protected Health Information (PHI), sending audio files to a cloud transcription service is just asking for a HIPAA violation. It’s a massive liability. All it takes is one breach at some third-party AI company and your university is facing seven-figure fines and a complete loss of trust. It&amp;rsquo;s a non-starter.&lt;/p&gt;
+&lt;p&gt;This project was born from that simple reality.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m developing a fully &lt;strong&gt;offline transcription solution&lt;/strong&gt; for a local university&amp;rsquo;s research department. The entire process—from audio input to the finished text document—happens on a single, air-gapped machine. The data &lt;strong&gt;never&lt;/strong&gt; touches the internet. It doesn&amp;rsquo;t get sent to a server in some unknown data center for processing; it stays local and secure. This isn&amp;rsquo;t just a feature; it&amp;rsquo;s the entire point. It provides researchers with the power of modern transcription technology without forcing them to gamble with patient privacy and compliance.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>From Codebase to Construction Site: Building an AI to Navigate the Maze of Building Codes</title>
       <link>http://localhost:1313/projects/projecttwo/</link>
@@ -19,6 +29,16 @@ that seems impossible to fully wrap your head around, let alone decypher and get
 effective answer from. Sometimes a simple question can bog the entire job down;
 waiting for building officials to respond with pertinent, objective answers can
 take days, even weeks.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bespoke Construction Management</title>
+      <link>http://localhost:1313/projects/bespoke-construction-management/</link>
+      <pubDate>Sun, 15 Jun 2025 10:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/projects/bespoke-construction-management/</guid>
+      <description>&lt;h3 id=&#34;project-brief-the-no-bs-construction-management-platform&#34;&gt;Project Brief: The No-BS Construction Management Platform&lt;/h3&gt;
+&lt;p&gt;Let&amp;rsquo;s be honest, most construction management software is a bloated, overpriced mess. You pay a fortune for a hundred features you&amp;rsquo;ll never use, and the whole thing runs slower than molasses in January. It’s built by committees in corner offices who haven&amp;rsquo;t stepped on a job site in years.&lt;/p&gt;
+&lt;p&gt;I got fed up with it. So, I built my own.&lt;/p&gt;
+&lt;p&gt;This is a ground-up construction management platform with all the core functionality of something like Buildertrend, but without the fluff. Using &lt;strong&gt;Python&lt;/strong&gt;, &lt;strong&gt;SQLite&lt;/strong&gt;, and &lt;strong&gt;HTMX&lt;/strong&gt;, it&amp;rsquo;s ridiculously fast and responsive. There are no clunky JavaScript frameworks, just a tool that does what you need it to do—scheduling, daily logs, client communication, financials—and gets out of your way. The goal here isn&amp;rsquo;t to reinvent the wheel; it&amp;rsquo;s to build a better, leaner wheel for the GCs who are tired of paying for a fleet of 18-wheelers when all they need is a reliable work truck. I will update with a better breakdown as time permits. Here are some screenshots for now.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

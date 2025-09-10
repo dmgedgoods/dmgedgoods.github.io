@@ -2,26 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/automation/</loc>
+    <lastmod>2025-09-02T10:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/offline-transcription-workflow/</loc>
+    <lastmod>2025-09-02T10:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/privacy/</loc>
+    <lastmod>2025-09-02T10:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2025-09-02T10:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-09-02T10:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-09-02T10:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/transcription/</loc>
+    <lastmod>2025-09-02T10:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/workflow/</loc>
+    <lastmod>2025-09-02T10:00:00-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/projects/projecttwo/</loc>
     <lastmod>2025-08-29T10:43:39-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2025-08-29T10:43:39-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-08-29T10:43:39-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/posttwo/</loc>
-    <lastmod>2025-08-29T10:35:18-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/postone/</loc>
-    <lastmod>2025-08-29T10:35:18-07:00</lastmod>
+    <loc>http://localhost:1313/posts/from-wall-street-to-main-street/</loc>
+    <lastmod>2025-07-27T10:35:18-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-08-29T10:35:18-07:00</lastmod>
+    <lastmod>2025-07-27T10:35:18-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/bespoke-construction-management/</loc>
+    <lastmod>2025-06-15T10:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/construction/</loc>
+    <lastmod>2025-06-15T10:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/custom-software/</loc>
+    <lastmod>2025-06-15T10:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/management/</loc>
+    <lastmod>2025-06-15T10:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/bim/</loc>
+    <lastmod>2025-05-22T12:50:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pipeline/</loc>
+    <lastmod>2025-05-22T12:50:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/securing-the-bim-pipeline/</loc>
+    <lastmod>2025-05-22T12:50:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/security/</loc>
+    <lastmod>2025-05-22T12:50:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/access-management/</loc>
+    <lastmod>2025-02-22T09:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/iam/</loc>
+    <lastmod>2025-02-22T09:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/iam-management-for-the-small-guys/</loc>
+    <lastmod>2025-02-22T09:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/small-business/</loc>
+    <lastmod>2025-02-22T09:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cybersecurity/</loc>
+    <lastmod>2024-05-12T09:12:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/bec-and-typosquatting/</loc>
+    <lastmod>2024-05-12T09:12:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/domain-security/</loc>
+    <lastmod>2024-05-12T09:12:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/phishing/</loc>
+    <lastmod>2024-05-12T09:12:00-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
